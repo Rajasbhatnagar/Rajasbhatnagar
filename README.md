@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajas Bhatnagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h5 align="center">"An avid Indian ML/AI developer, I thrive on unraveling complex patterns and constructing neural networks." 🌟</h5>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
